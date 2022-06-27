@@ -1,0 +1,20 @@
+[
+  {
+    "exchange": "Trader Joe",
+    "chain": "AVAX",
+    "coin1": "AVAX",
+    "coin2": "DAI.e",
+    "alphaTVL": 2529988.99,
+    "dexTVL": 2594690,
+    "positions": 112
+  },
+  {
+    "exchange": "Trader Joe 2",
+    "chain": "AVAX",
+    "coin1": "AVAX 2",
+    "coin2": "DAI.e 2",
+    "alphaTVL": 2529988.99,
+    "dexTVL": 2594690,
+    "positions": 113
+  }
+]
